@@ -3,7 +3,7 @@
 First we create a storage bucket with terraform.
 
 Steps :
-  1 - Connect to Google Console
+  1 - Connect to Google Console\  
   2 - Create a project
   3 - Go to IAM and add service account and give it `Storage/Admin`Role
   4 - Generate Keys in keys tab of the service account and save them in json format on you local machine
